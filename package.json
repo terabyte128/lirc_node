@@ -13,7 +13,9 @@
   "keywords": [
     "lirc"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "wol": "^1.0.5"
+  },
   "devDependencies": {
     "mocha": "2.3.3",
     "q": "1.4.1",
